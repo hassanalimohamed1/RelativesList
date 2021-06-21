@@ -1,0 +1,12 @@
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/RelativesList/bin/Debug/netcoreapp3.1/RelativesList.deps.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/RelativesList/bin/Debug/netcoreapp3.1/RelativesList.runtimeconfig.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/RelativesList/bin/Debug/netcoreapp3.1/RelativesList.runtimeconfig.dev.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/RelativesList/bin/Debug/netcoreapp3.1/RelativesList.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/RelativesList/bin/Debug/netcoreapp3.1/RelativesList.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/RelativesList/obj/Debug/netcoreapp3.1/RelativesList.csprojAssemblyReference.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/RelativesList/obj/Debug/netcoreapp3.1/RelativesList.AssemblyInfoInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/RelativesList/obj/Debug/netcoreapp3.1/RelativesList.AssemblyInfo.cs
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/RelativesList/obj/Debug/netcoreapp3.1/RelativesList.csproj.CoreCompileInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/RelativesList/obj/Debug/netcoreapp3.1/RelativesList.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/RelativesList/obj/Debug/netcoreapp3.1/RelativesList.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/RelativesList/obj/Debug/netcoreapp3.1/RelativesList.genruntimeconfig.cache
